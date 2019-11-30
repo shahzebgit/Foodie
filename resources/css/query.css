@@ -142,7 +142,7 @@
     }
 
     .sticky .mobile-nav-icon {
-        margin-top: 10px;
+        margin-top: 20px;
     }
 
     .sticky .mobile-nav-icon i {
@@ -196,9 +196,9 @@
 
     .span-1-of-2  .footer-nav
     {
-        width: 170%;
-       
-        
+        width: 120%;
+        cursor: pointer;
+
     }
     .social-links li {
         display: none;
