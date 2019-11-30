@@ -104,8 +104,8 @@ h2::after {
 
 
 header {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.534)), to(rgba(0, 0, 0, 0.452))), url(img/hero.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.534), rgba(0, 0, 0, 0.452)), url(img/hero.jpg);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.534)), to(rgba(0, 0, 0, 0.452))), url(img/hero__min.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.534), rgba(0, 0, 0, 0.452)), url(img/hero__min.jpg);
     height: 100vh;
     background-size: cover;
     /*to show full image clearly*/
@@ -465,8 +465,8 @@ input[type=submit]:hover {
 
 
 .section-reviews {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.534)), to(rgba(0, 0, 0, 0.534))), url(img/back-customers.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.534), rgba(0, 0, 0, 0.534)), url(img/back-customers.jpg);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.534)), to(rgba(0, 0, 0, 0.534))), url(img/back-customers__min.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.534), rgba(0, 0, 0, 0.534)), url(img/back-customers__min.jpg);
     background-size: cover;
     color: #ffffff;
     background-attachment: fixed;
